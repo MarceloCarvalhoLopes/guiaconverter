@@ -1,8 +1,6 @@
 const fs = require("fs") ;
 const util = require("util");
 
-
-
 class Reader{
 
     constructor(){
